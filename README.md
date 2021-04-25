@@ -1,8 +1,8 @@
 [![Header](https://github.com/hikarin8/hikarin8/blob/main/accets/208440%20(1).gif)](https://vk.com/hikarin.none)
 
-About me
-
-Latest You
+### About me
+My name is Daniel (Rise), I study at the St. Petersburg State University Telecommunications Im. Professor M. A. Bonch-Bruyevicha (SPBGUT) in the field of intelligent information systems and technologies.
+In the past, a professional basketball player, and now a programmer.
 
 ### Languages and Tools
 ![JavaCore](https://img.shields.io/badge/-JavaCore-090909?style=for-the-badge&logo=Java&logoColor=FFFF00)
@@ -18,4 +18,4 @@ Latest You
 [![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/danil_rise/?hl=ru)
 [![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=vk)](https://vk.com/hikarin.none)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook)](https://www.facebook.com/danil.rise.33)
-[![Yandex.mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=yandex)](hikarin.none@yandex.ru)
+
