@@ -4,6 +4,9 @@ About me
 
 Latest You
 
-Languages and Tools
+### Languages and Tools
+![JavaCore](https://img.shields.io/badge/-JavaCore-000000?style=for-the-badge&logo=Java&logoColor=FF0000)
+![JavaEE](https://img.shields.io/badge/-JavaCore-000000?style=for-the-badge&logo=Java&logoColor=FF0000)
+
 
 Follow Me
